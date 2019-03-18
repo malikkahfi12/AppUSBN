@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "873009814492",
+    "firebase_url": "https://quizknowledge-ad641.firebaseio.com",
+    "project_id": "quizknowledge-ad641",
+    "storage_bucket": "quizknowledge-ad641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873009814492:android:ef617fa7f4fb0c10",
+        "android_client_info": {
+          "package_name": "com.example.asus.qunasta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873009814492-abnmn0brfogegq78qfcn8cmn5rv9pak6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.qunasta",
+            "certificate_hash": "425a4321fede627e74249c0af93e19950fe60604"
+          }
+        },
+        {
+          "client_id": "873009814492-pnq67dm6itv3d33rqqr75cjgatcf0mfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayNdl8ykO5wXjx3rze2VNSKP9UD76YqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873009814492-pnq67dm6itv3d33rqqr75cjgatcf0mfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
